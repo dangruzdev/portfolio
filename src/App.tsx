@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import "./app.css";
 import avatar from "./assets/peep.svg";
 import jslogo from "./assets/icons8-javascript.svg";
